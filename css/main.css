@@ -59,7 +59,7 @@ img {
 }
 
 .ltbg {
-  width: 60vw;
+  width: 60%;
   height: auto;
   position: fixed;
   top: 0;
@@ -68,7 +68,7 @@ img {
 }
 
 .rbbg {
-  width: 60vw;
+  width: 60%;
   height: auto;
   position: fixed;
   bottom: 0;
