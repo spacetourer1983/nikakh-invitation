@@ -1,0 +1,13 @@
+.schedule {
+  height: 50vh;
+  & .schedule-header {
+    text-align: center;
+    font-size: 10vw;
+    text-transform: uppercase;
+  }
+  & .schedule-list {
+    text-align: center;
+    font-size: 7vw;
+    line-height: 1.2em;
+  }
+}
